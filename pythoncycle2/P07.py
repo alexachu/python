@@ -17,3 +17,9 @@ if x1==x2:
 else:
     print("The sum of the values are not same")
     
+a=set(l1)
+b=set(l2)
+if(a&b):
+    print(a&b)
+else:
+    print("No element is common")
