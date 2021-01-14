@@ -1,6 +1,6 @@
 #Enter 2 lists of integers,Check whether list are same length,list sums to same value,any value occur in both 
 l1=[10,15,20]
-l2=[4,8,16,32]
+l2=[4,8,16,15,32]
 s1=len(l1)
 s2=len(l2)
 if s1==s2:
