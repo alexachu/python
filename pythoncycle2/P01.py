@@ -1,0 +1,13 @@
+#Familiarizing text editor,IDE,code analysis tools.
+print("Enter your address")
+n=input("Enter your name : ")
+hname=input("Enter your house name : ")
+p=input("Enter your place : ")
+pin=int(input("Enter your pincode: "))
+d=input("Enter your district : ")
+print("Address details :")
+print("Name :",n)
+print("Housename :",hname)
+print("Place : ",p)
+print("pincode : ",pin)
+print("District : ",d)
